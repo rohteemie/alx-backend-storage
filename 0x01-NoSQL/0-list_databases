@@ -1,1 +1,2 @@
 //This is a script that list all Databases Available.
+show dbs
